@@ -1,7 +1,7 @@
-[![MasterHead](https://i0.wp.com/bluecanvas.io/images/scm_breeze.gif?ssl=1)
+![MasterHead](https://i0.wp.com/bluecanvas.io/images/scm_breeze.gif?ssl=1)
 <h1 align="center">Hi 👋, I'm Alvish Patel</h1>
 <h3 align="center">I really like to do learn new things. I have completed My Bachelor of Computer Applications (BCA) From Shree R P Bhalodia College of Computer, Commerce and Business Management in Rajkot (Saurashtra University) and currently studying Master's in Computer Applications (MCA) at Indira Gandhi National Open University. (Rajkot) In addition, working as a Web Developer, Software Developer, Web Designer, Android/Ios, WordPress as well as flutter application.</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F8JIk&psig=AOvVaw2mvQzX87RMliTMhmh6qfMK&ust=1675594219962000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJCalITZ-_wCFQAAAAAdAAAAABAJ">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvish-patel&label=Profile%20views&color=0e75b6&style=flat" alt="alvish-patel" /> </p>
 
